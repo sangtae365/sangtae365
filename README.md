@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 <div align="center" style="text-align: center">
   
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=Vue.js&logoColor=black&style=flat-square)
+  <br>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  <br>
+  ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=Docker&logoColor=white&style=flat-square)
+  <br>
+  ![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=Amazon%20AWS&logoColor=ff9900&style=flat-square)
   
 </div>
 

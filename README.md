@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="text-align: center">
   
-  #6DB33F
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=Vue.js&logoColor=black&style=flat-square)
   
 </div>
 

@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<br>
+
+<h2 align="center">:page_with_curl:Experience</h3>
+
+<div>
+  
+  <ul>
+    <li>:computer:Samsung Software Academy For Youth (2022.01 ~ )</li>
+  </ul>
+  
+</div>
+
+
+<br>
+
+<h2 align="center">🏅Solved.ac Tier</h3>
+
+<div align="center" style="text-align:center">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangtae365)](https://solved.ac/sangtae365)
+
+</div>

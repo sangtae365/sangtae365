@@ -28,6 +28,16 @@ Here are some ideas to get you started:
   
 </div>
 
+<br>
+
+<h2 align="center">🛠Tech Stacks</h3>
+
+<div align="center" style="text-align: center">
+  
+  #6DB33F
+  
+</div>
+
 
 <br>
 

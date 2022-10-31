@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 <br>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sangtae365)](https://solved.ac/sangtae365) 
 <h2 align="center">🏅Solved.ac Tier</h3>
 
 <div align="center" style="text-align:center">

@@ -56,7 +56,6 @@ Here are some ideas to get you started:
   
 </div>
 
-<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sangtae365)](https://solved.ac/sangtae365)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangtae-park&layout=compact)](https://github.com/sangtae365/github-readme-stats)
 

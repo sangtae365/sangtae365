@@ -48,18 +48,18 @@ Here are some ideas to get you started:
 <br>
 
 
-<h2 align="center">🏅Solved.ac Tier</h3>
+<h2 align="center">🏅Solved.ac Tier</h2>
 <div align="center" style="text-align:center">
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sangtae365)](https://solved.ac/sangtae365)
-  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sangtae365)](https://solved.ac/sangtae365)
 </div>
 
 <div align="center" style="text-align:center">
-  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangtae365)](https://solved.ac/sangtae365)
-
 </div>
 
+<!-- <div align="center" style="text-align:center">
+  
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sangtae365&theme=dark)
 
+</div> -->
 

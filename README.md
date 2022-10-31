@@ -61,8 +61,6 @@ Here are some ideas to get you started:
 
 </div>
 
-</div>
-
 <div align="center" style="text-align:center">
   
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sangtae365&theme=dark)

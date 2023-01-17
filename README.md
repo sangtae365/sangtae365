@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div>
   
   <ul>
-    <li>:computer:Samsung Software Academy For Youth (2022.01 ~ )</li>
+    <li>:computer:Samsung Software Academy For Youth (2022.01 ~ 2022.12)</li>
   </ul>
   
 </div>

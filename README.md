@@ -1,4 +1,4 @@
-### Hi there 👋
+### 노력하는 개발자 박상태입니다 👋
 
 <!--
 **sangtae365/sangtae365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

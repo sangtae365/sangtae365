@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div>
   
   <ul>
-    <li>💻: SW Engineer KT DS (2023.01 ~ 2023.8)</li>
+    <li>💻: SW Engineer KT DS (2023.01 ~ 2023.08)</li>
     <li>🎓: Samsung Software Academy For Youth (2022.01 ~ 2022.12)</li>
   </ul>
   

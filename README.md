@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <div>
   
   <ul>
+    <li>💻: SW Engineer Hyundai AutoEver (2024.01 ~ ) </li>
     <li>💻: SW Engineer KT DS (2023.01 ~ 2023.08) </li>
     <li>🎓: Samsung Software Academy For Youth (2022.01 ~ 2022.12)</li>
   </ul>
